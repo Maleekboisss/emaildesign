@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/emaildesign/static/js/main.6c5f2235.js",
+    "static/media/keyboard.png": "/emaildesign/static/media/keyboard.6d4dbdf713e5487dbdc5.png",
+    "static/media/space.png": "/emaildesign/static/media/space.ab8c20114b55f3b58ef2.png",
+    "static/media/sunrise.png": "/emaildesign/static/media/sunrise.d8861b277c48c63987d7.png",
+    "static/media/whitekeyboard.png": "/emaildesign/static/media/whitekeyboard.4ed837fc5b685243b808.png",
+    "index.html": "/emaildesign/index.html",
+    "main.6c5f2235.js.map": "/emaildesign/static/js/main.6c5f2235.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c5f2235.js"
+  ]
+}
